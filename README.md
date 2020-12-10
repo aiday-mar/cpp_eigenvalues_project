@@ -136,10 +136,3 @@ Aditionally, while we have tried our best to follow the guidelines for concise s
 ## Reflection on the Project
 
 The project has been a pleasure to work on. We have learned a lot, gained valuable skills in c++ and learned to work as a team, by splitting the work. Aside from the knowledge in c++, we have also learned how to develop a small project from beginning to the end, and have been familiarized with new technologies such as GitLab, Doxygen and Google Test Suites. The hard part was most likely the debugging, and spending hours finding small errors that had propagated in the whole project. However with hard and meticulous work, we have been able to finally deliver the project. 
-
-
-
-
-
-
-
